@@ -6,11 +6,11 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers
+# This function multiplies two numbers and return multiplication
 def multiply(x, y):
     return x * y
 
-# This function divides two numbers
+# This function divides two numbers and return division
 def divide(x, y):
     return x / y
 
