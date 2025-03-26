@@ -6,7 +6,7 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
-# This function multiplies two numbers and return multiplication
+# This function multiplies two numbers and return multiplications
 def multiply(x, y):
     return x * y
 
